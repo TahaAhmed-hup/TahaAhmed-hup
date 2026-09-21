@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Taha 👋
 
-<!--
-**TahaAhmed-hup/TahaAhmed-hup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Flutter Developer based in Cairo, Egypt. I build cross-platform mobile apps with a focus on Clean Architecture, scalable state management, and real backend integration — not just UI screens.
 
-Here are some ideas to get you started:
+🔭 Currently building Link Up — a real-time chat app with GetX + Firebase Firestore
+🧱 Comfortable with BLoC, Cubit, and GetX depending on what a project needs
+🔌 Experience integrating Firebase, Supabase, and REST APIs
+🌱 Always learning — open to feedback and code reviews on any of my repos
+📫 Reach me on LinkedIn or tahaa0683@gmail.com
+Featured Projects
+Link Up — Real-time chat app with GetX and Firebase Firestore
+FilmHub — Movies & TV browser using Clean Architecture + BLoC
+Crypto Nest — Secure OTP authentication with Supabase
+Auto Rent — Car rental app with Firestore real-time sync
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Flutter Dart BLoC Cubit GetX Firebase Supabase PostgreSQL REST APIs
